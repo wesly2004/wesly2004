@@ -43,14 +43,14 @@
 <h3>About me</h3>
 <img align="right" alt="Coding" width="300" src="https://cdn.dribbble.com/users/1277312/screenshots/14733298/media/39b1045e593737587dd60e42c8422d1f.gif" >
 <br>
+<h3>
+  Soy estudiante de desarrollo de software en el intituto tecnologico de las americas o mejor conocido como ITLA <d>
+    me encuentro en mi 5to cuatrimestre En fines de terminos
+    
+  </d>
+</h3>
 
 
-
-
-
-<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=anii693&theme=dark" alt="anii693" /></p>
-<br><br><br><br><br><br><br><br><br><br>
-<hr width="60%" >
 <h3 align="left">Connect with me:</h3>
 <p align="left">
   <a href="https://www.linkedin.com/in/wesly-estevez-148aa6266/" target="_blank">
