@@ -52,10 +52,11 @@
   <a href="https://www.linkedin.com/in/wesly-estevez-148aa6266/" target="_blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
   </a>
-  <a href="mailto:weslyesteves81@gmail.com" target="_blank">
-    <img align="center" src="https://cdn.jsdelivr.net/gh/edent/SuperTinyIcons/images/svg/email.svg" alt="Email" height="30" width="40" />
-  </a>
 </p>
+<p align="left">
+  📧 <a href="mailto:weslyesteves81@gmail.com">weslyesteves81@gmail.com</a>
+</p>
+
 
 
 
