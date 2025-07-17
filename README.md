@@ -49,13 +49,15 @@
 <hr width="60%" >
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-  <a href="https://linkedin.com/in/anirudh-rai-072732220" target="_blank">
+  <a href="https://www.linkedin.com/in/wesly-estevez-148aa6266/" target="_blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
   </a>
   <a href="mailto:weslyesteves81@gmail.com" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/gmail.svg" alt="Gmail" height="30" width="40" />
+    <img align="center" src="https://cdn.jsdelivr.net/gh/edent/SuperTinyIcons/images/svg/email.svg" alt="Email" height="30" width="40" />
   </a>
 </p>
+
+
 
 
 ------
