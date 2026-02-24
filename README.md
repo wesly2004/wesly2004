@@ -6,52 +6,42 @@
 
 <br>
 
-<h3 align="left">Languages:</h3>
-<p align="left">
+<h3 align="right">Languages:</h3>
+<p align="right">
 
-  <!-- Python -->
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"
        alt="python" width="40" height="40"/>
 
-  <!-- C# -->
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg"
        alt="csharp" width="40" height="40"/>
 
-  <!-- .NET -->
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original.svg"
        alt="dotnet" width="40" height="40"/>
 
-  <!-- Flask -->
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original.svg"
        alt="flask" width="40" height="40"/>
 
-  <!-- SQL -->
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg"
        alt="sql" width="40" height="40"/>
 
 </p>
 
-<h3 align="left">Tools:</h3>
-<p align="left">
+<h3 align="right">Tools:</h3>
+<p align="right">
 
-  <!-- Git -->
   <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg"
        alt="git" width="40" height="40"/>
 
-  <!-- GitHub -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"
        alt="github" width="40" height="40"
        style="filter: invert(1);"/>
 
-  <!-- Docker -->
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg"
        alt="docker" width="40" height="40"/>
 
-  <!-- VS Code -->
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg"
        alt="vscode" width="40" height="40"/>
 
-  <!-- Visual Studio 2022 -->
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/visualstudio/visualstudio-plain.svg"
        alt="visualstudio" width="40" height="40"/>
 
