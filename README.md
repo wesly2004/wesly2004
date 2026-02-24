@@ -6,8 +6,8 @@
 
 <br>
 
-<h3 align="right">Languages:</h3>
-<p align="right">
+<h3>Languages:</h3>
+<p>
 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"
        alt="python" width="40" height="40"/>
@@ -26,8 +26,8 @@
 
 </p>
 
-<h3 align="right">Tools:</h3>
-<p align="right">
+<h3>Tools:</h3>
+<p>
 
   <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg"
        alt="git" width="40" height="40"/>
