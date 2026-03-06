@@ -6,7 +6,7 @@
 
 <br>
 
-<h3>Languages:</h3>
+<h3>Languages</h3>
 
 <table>
   <tr>
