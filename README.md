@@ -1,6 +1,6 @@
 <img width="2000" height="400" alt="header" src="https://github.com/user-attachments/assets/5fc23e81-ea44-4cad-8b9a-13924bc71e59" />
 
-<h1 align="center">Hi, I'm Wesly Estevez</h1>
+<h1 align="center">Hi! I'm Wesly Estevez</h1>
 
 🌱 I’m currently learning **Backend Developer**
 
